@@ -36,4 +36,4 @@ Important Conclusions from the Analysis are:
 On fitting the decision tree classifier on the dataset, we got an accuracy of about 71.5.
 
 # Decision tree
-![Plot](https://github.com/sourav2510/AnalysisAndRecommendationOfGooglePlayStoreApps/blob/master/decision tree.png)
+![Plot](https://github.com/sourav2510/AnalysisAndRecommendationOfGooglePlayStoreApps/blob/decision tree.png)
